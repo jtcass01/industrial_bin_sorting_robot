@@ -1,0 +1,2 @@
+state_machine
+-DCATKIN_DEVEL_PREFIX=/home/durzo/programming/industrial_bin_sorting_robot/devel -DCMAKE_INSTALL_PREFIX=/home/durzo/programming/industrial_bin_sorting_robot/install -G Unix Makefiles
